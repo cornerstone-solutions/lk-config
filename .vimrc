@@ -37,3 +37,6 @@ set ttymouse=xterm2
 " Get search nice and cool
 set hlsearch
 set incsearch
+
+" Draw line at 80
+set colorcolumn=80
