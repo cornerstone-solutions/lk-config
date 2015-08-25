@@ -23,6 +23,9 @@ nnoremap <silent> <F7> :set paste!<CR>
 " Enable jj as esc
 inoremap jj <esc>
 
+" Make following tags a bit more bearable
+map <M-n> :tnext<Enter>
+
 colorscheme evening
 "set guifont=Monospace/13
 " Font doesn't work
