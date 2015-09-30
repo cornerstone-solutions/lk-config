@@ -2,6 +2,7 @@ set autoindent
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
+set expandtab
 
 set pastetoggle=<F2>
 
@@ -43,3 +44,7 @@ set incsearch
 
 " Draw line at 80
 set colorcolumn=80
+
+execute pathogen#infect()
+
+let g:ycm_global_tcm_extra_conf = "~/.vim/.ycm_extra_conf.py"
