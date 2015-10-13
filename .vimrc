@@ -27,7 +27,7 @@ inoremap jj <esc>
 " Make following tags a bit more bearable
 map <M-n> :tnext<Enter>
 
-colorscheme evening
+colorscheme desert
 "set guifont=Monospace/13
 " Font doesn't work
 
@@ -48,3 +48,5 @@ set colorcolumn=80
 execute pathogen#infect()
 
 let g:ycm_global_tcm_extra_conf = "~/.vim/.ycm_extra_conf.py"
+
+source ~/.vimrc_space
