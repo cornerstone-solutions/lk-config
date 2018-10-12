@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/lachlan'
+let g:netrw_dirhist_2='/home/lachlan/machIIapp'
+let g:netrw_dirhist_3='/home/lachlan/machIIapp/libmach2/src'
+let g:netrw_dirhist_4='/home/lachlan/machIIapp/libmach2/src/controllers'
+let g:netrw_dirhist_5='/mnt/c/Users/lachlan.kingsford/Documents/machIIapp'
+let g:netrw_dirhist_6='/mnt/c/Users/lachlan.kingsford/Documents/machIIapp/ps-dia'
+let g:netrw_dirhist_7='/mnt/c/Users/lachlan.kingsford/Documents/machIIapp/ps-dia/arm'
+let g:netrw_dirhist_8='/mnt/c/Users/lachlan.kingsford/Documents/PerformanceTesting'
+let g:netrw_dirhist_9='/mnt/c/Users/lachlan.kingsford/Documents/premier-timelapse/premier_timelapse'
